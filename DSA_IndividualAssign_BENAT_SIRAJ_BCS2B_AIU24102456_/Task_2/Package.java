@@ -1,6 +1,6 @@
 public class Package {
 
-    // ── Fields (protected → accessible by InsuredPackage) ──────────────────
+    // ── Fields (protected → accessible by InsuredPackage) ──────────────────___-___
     protected double weight;         // weight in ounces
     protected char   shippingMethod; // 'A' = Air, 'T' = Truck, 'M' = Mail
     protected double shippingCost;   // computed by calculateCost()
